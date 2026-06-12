@@ -10,7 +10,3 @@ spec:
   containers :
   - name: my-container-nginx
     image: nginx
-spec:
-  containers:
-  - name: my-container-mysql
-    image: mysql:5.7
